@@ -37,7 +37,7 @@ Report looks like:
 
 Output example:
 
-'''
+```
 2017-09-17 20:59:19,508 INFO Starting for 'D:\Reps\gitconflictstest'
 2017-09-17 20:59:19,535 INFO Fetching branches ....
 2017-09-17 20:59:19,685 INFO Checkout 'b1'
@@ -63,4 +63,4 @@ Output example:
 2017-09-17 20:59:22,364 INFO Checkout 'b3'
 2017-09-17 20:59:22,778 INFO    Merging with 'master'
 2017-09-17 20:59:23,151 INFO Checkout 'master'
-'''
+```
