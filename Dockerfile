@@ -3,7 +3,8 @@ FROM python:3-onbuild
 MAINTAINER Eduard Kibort
 
 VOLUME /repository
-VOLUME /code 
+
+COPY *.py run.sh /code/
 
 WORKDIR /code
 
